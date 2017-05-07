@@ -1,9 +1,16 @@
 {
   "name": "decipher-sails-utils",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Various utilities used by Decipher Industries in sails.js projects",
   "main": "index.js",
   "keywords": ["decipher", "decipher industries", "sails", "sails.js", "utilities", "utils"],
   "author": "Fabian Tollenaar <fabian@decipher.industries> & Iain T. Kettles <iain@decipher.industries> (https://decipher.industries)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decipherindustries/decipher-sails-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/decipherindustries/decipher-sails-utils/issues"
+  }
 }
